@@ -25,6 +25,19 @@ License
 UFOHub is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
+Social-Media
+-------------------
+Twitter: https://twitter.com/UFOHub_org
+Discord: https://discord.gg/NavtdhvwUU
+FaceBook: https://www.facebook.com/people/UFOHuborg/61552495190836/
+Youtube: https://www.youtube.com/@UFOHub_org
+Website: https://www.ufohub.org/
+
+Nodes
+-------------------
+addnode=116.203.64.255
+
+
 Development Process
 -------------------
 
